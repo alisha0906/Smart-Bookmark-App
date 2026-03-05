@@ -2,7 +2,6 @@
 
 A private bookmark manager with real-time sync, built with Next.js 14, Supabase, and Tailwind CSS.
 
-**Live Demo**: *(Add your Vercel URL here after deployment)*  
 **Tech Stack**: Next.js 14 (App Router) · Supabase (Auth + DB + Realtime) · Tailwind CSS
 
 ---
