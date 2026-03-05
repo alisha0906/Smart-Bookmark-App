@@ -112,7 +112,7 @@ export default function Dashboard({ user, initialBookmarks }: Props) {
             </span>
             {avatarUrl && (
               <img src={avatarUrl} alt="avatar" className="w-8 h-8 rounded-full object-cover ring-2"
-                style={{ ringColor: 'var(--border)' }} />
+                className="w-8 h-8 rounded-full object-cover ring-2 ring-stone-200" />
             )}
             <button
               onClick={handleSignOut}
